@@ -8,3 +8,5 @@ Screenshot
 
 Installation
 ------------
+
+[Download plugin](releases/tag/1.0)
