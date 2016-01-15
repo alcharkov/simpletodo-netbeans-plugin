@@ -9,4 +9,4 @@ Screenshot
 Installation
 ------------
 
-[Download plugin](https://github.com/alcharkov/simpletodo-netbeans-plugin/releases/tag/1.0)
+[Download plugin](https://github.com/alcharkov/simpletodo-netbeans-plugin/releases/)
